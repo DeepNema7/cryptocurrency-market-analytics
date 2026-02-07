@@ -82,18 +82,12 @@ Bitcoin price trend over the last 30 days
 
 Date-wise price movement visualization
 
-images/
+🧠 Key Insights
 
-├── current_price.png
+Market capitalization strongly correlates with trading volume
 
-├── market_cap.png
+High-volume assets tend to show higher price stability
 
-├── trading_volume_24h.png
+Bitcoin exhibits short-term volatility but clear trend behavior over 30 days
 
-├── price_change_24h.png
-
-├── volume_vs_price.png
-
-├── crypto_market_correlation.png
-
-└── bitcoin_price_last_30_days.png
+Snapshot vs time-series APIs serve different analytical purposes
