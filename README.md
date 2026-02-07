@@ -83,10 +83,17 @@ Bitcoin price trend over the last 30 days
 Date-wise price movement visualization
 
 images/
+
 ├── current_price.png
+
 ├── market_cap.png
+
 ├── trading_volume_24h.png
+
 ├── price_change_24h.png
+
 ├── volume_vs_price.png
+
 ├── crypto_market_correlation.png
+
 └── bitcoin_price_last_30_days.png
