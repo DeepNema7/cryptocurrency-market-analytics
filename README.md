@@ -40,14 +40,33 @@ The project covers:
 
 ## 🎯 Objectives
 
-| # | Objective | Description |
-|---|-----------|-------------|
-| 1 | **Live API Integration** | Fetch real-time data via CoinGecko REST endpoints |
-| 2 | **Metric Analysis** | Analyze price, volume, and market cap across top assets |
-| 3 | **Correlation Study** | Heatmap analysis across key financial indicators |
-| 4 | **Time-Series Trend** | 30-day Bitcoin price movement visualization |
+<details>
+<summary><strong>1. Live API Integration</strong></summary>
 
----
+Fetch real-time data via CoinGecko REST endpoints.
+
+</details>
+
+<details>
+<summary><strong>2. Metric Analysis</strong></summary>
+
+Analyze price, volume, and market cap across top assets.
+
+</details>
+
+<details>
+<summary><strong>3. Correlation Study</strong></summary>
+
+Heatmap analysis across key financial indicators.
+
+</details>
+
+<details>
+<summary><strong>4. Time-Series Trend</strong></summary>
+
+30-day Bitcoin price movement visualization.
+
+</details>
 
 ## 🛠️ Tech Stack
 
