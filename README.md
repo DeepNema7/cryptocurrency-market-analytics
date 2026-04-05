@@ -282,11 +282,6 @@ pip install requests pandas matplotlib seaborn jupyter notebook
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
 
 <div align="center">
   <sub>Built with Python · Data from CoinGecko Public API · No API key required</sub>
